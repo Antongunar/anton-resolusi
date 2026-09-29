@@ -1,3 +1,5 @@
 CACA RESOLUSI
 - ini file kedua dari repository Anton-resolusi
 - latihan menambah file dalam satu repository/folder proyek
+- ini tambahan baris text pada caca-resolusi
+- ini juga tambahan ( no 2)
