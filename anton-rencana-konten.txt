@@ -1,4 +1,6 @@
 RENCANA KONTEN ANTON
 - membuat grafik 
+  # matematika
+  # biologi
 - mencari solusi matematika
 - belajar membuat riset
