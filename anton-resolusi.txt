@@ -2,5 +2,5 @@ ANTON RESOLUSI
 - belajar menggunakan GitHub
 - belajar mengelola repository
 - belajar mengelola commit
-- berkolaborasi dg public
 - belajar dari programmer lain
+- belajar coding dengan public programmer
