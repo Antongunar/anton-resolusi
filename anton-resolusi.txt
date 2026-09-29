@@ -1,0 +1,4 @@
+ANTON RESOLUSI
+- belajar menggunakan GitHub
+- belajar mengelola repository
+- belajar mengelola commit
